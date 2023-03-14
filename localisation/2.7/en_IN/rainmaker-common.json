@@ -1072,5 +1072,11 @@
         "message": "Death Report Viewer",
         "module": "rainmaker-common",
         "locale": "en_IN"
+    },
+    {
+            "code": "PENDING_APPL_FEE",
+            "message": "Pending Application Fee",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
     }
 ]
